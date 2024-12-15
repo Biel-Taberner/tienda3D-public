@@ -1,0 +1,107 @@
+[
+    {
+        "id": 2,
+        "type": "Expositor",
+        "name": "Elegant Shoes Shelf",
+        "description": "Elegant shoe shelf",
+        "mesh": "elegant_shoe_shelf.gltf"
+    },
+    {
+        "id": 3,
+        "type": "Shoe",
+        "name": "Old Oxford Shoe",
+        "description": "Descubre el clásico perfecto que combina estilo, comodidad y distinción. Fabricados con materiales premium y un diseño que nunca pasa de moda, son ideales para destacar en cualquier ocasión, desde reuniones formales hasta eventos especiales.",
+        "mesh": "old_oxford_shoe.gltf"
+    },
+    {
+        "id": 4,
+        "type": "Shoe",
+        "name": "Nike Air Jordan Shoe",
+        "description": "Descubre el icónico estilo y rendimiento de los Nike Air Jordan, diseñados para marcar la diferencia dentro y fuera de la cancha. Confeccionados con materiales de primera calidad, estos tenis ofrecen comodidad superior y soporte excepcional gracias a su tecnología de amortiguación Air. Su diseño atemporal, combinado con detalles que rinden homenaje a la leyenda del baloncesto, los convierte en un imprescindible para los amantes del deporte y la moda urbana.",
+        "mesh": "air_jordan.gltf"
+    },
+    {
+        "id": 5,
+        "type": "Shoe",
+        "name": "Adidas Football Boots",
+        "description": "Domina el terreno de juego con las Adidas Football Boots, diseñadas para ofrecer tracción superior, control preciso del balón y máxima velocidad. Su suela especializada se adapta a diferentes superficies, mientras que la parte superior flexible y transpirable asegura un ajuste cómodo. Ya seas un profesional o un aficionado, estas botas te llevarán al siguiente nivel, permitiéndote rendir al máximo en cada partido.",
+        "mesh": "adidas_football_boots.gltf"
+    },
+    {
+        "id": 6,
+        "type": "Shoe",
+        "name": "Espirit Heels",
+        "description": "Elegancia y comodidad se combinan en los Espirit Heels, ideales para cualquier ocasión. Con un diseño sofisticado y versátil, estos tacones destacan por su fabricación en materiales suaves y resistentes que garantizan confort durante todo el día. Perfectos para eventos formales o salidas casuales, los Espirit Heels son el toque final perfecto para tu outfit.",
+        "mesh": "espirit_heels.gltf"
+    },
+    {
+        "id": 7,
+        "type": "Iconic",
+        "name": "Adidas Flip Flops",
+        "description": "Unas adidas flip flops",
+        "mesh": "adidas_flip_flops.gltf"
+    },
+    {
+        "id": 8,
+        "type": "Iconic",
+        "name": "Crocs Slippers",
+        "description": "Unos crocs slippers",
+        "mesh": "crocs_slippers.gltf"
+    },
+    {
+        "id": 9,
+        "type": "Iconic",
+        "name": "Puma Sandals",
+        "description": "Unas sandalias de puma",
+        "mesh": "puma_sandals.gltf"
+    },
+    {
+        "id": 10,
+        "type": "Iconic",
+        "name": "Nike Slippers",
+        "description": "Unas nike slippers",
+        "mesh": "nike_slippers.gltf"
+    },
+    {
+        "id": 11,
+        "type": "Iconic",
+        "name": "Nike Flip Flops",
+        "description": "Unas nike flip flops",
+        "mesh": "nike_flip_flops.gltf"
+    },
+    {
+        "id": 12,
+        "type": "Iconic",
+        "name": "Kubota Flip Flops",
+        "description": "Unas kubota flip flops",
+        "mesh": "kubota_flip_flops.gltf"
+    },
+    {
+        "id": 13,
+        "type": "Shoe",
+        "name": "White heels",
+        "description": "Estos tacones blancos son el epítome de la elegancia y la versatilidad. Su diseño minimalista resalta la pureza del color, haciéndolos ideales para ocasiones formales como bodas o eventos, pero también perfectos para un look sofisticado y casual. Con un acabado limpio y líneas estilizadas, ofrecen un equilibrio entre comodidad y estilo.",
+        "mesh": "white_heels.gltf"
+    },
+    {
+        "id": 14,
+        "type": "Shoe",
+        "name": "Black 'n' Red heels",
+        "description": "Atrevidos y sofisticados, estos tacones combinan el clásico negro con un audaz toque de rojo, creando un contraste vibrante que captura miradas. Perfectos para una noche de gala o una salida especial, destacan por su diseño moderno y seductor, con detalles que realzan la feminidad y un tacón que estiliza la figura con confianza.",
+        "mesh": "black_red_heels.gltf"
+    },
+    {
+        "id": 15,
+        "type": "Shoe",
+        "name": "Modern derby shoes",
+        "description": "Con un diseño contemporáneo, estas Derby shoes modernas fusionan la tradición con un toque de innovación. Elaboradas con materiales de alta calidad y detalles actuales, son ideales para quienes buscan proyectar una imagen fresca y profesional. Su comodidad y versatilidad las hacen perfectas para el día a día o eventos semiformales.",
+        "mesh": "modern_derby_shoe.gltf"
+    },
+    {
+        "id": 16,
+        "type": "Shoe",
+        "name": "Old derby shoes",
+        "description": "Estas Derby shoes clásicas evocan un estilo vintage que no pasa de moda. Confeccionadas con materiales resistentes y acabados tradicionales, destacan por su durabilidad y su diseño atemporal. Ideales para quienes aprecian la calidad y el estilo refinado, son perfectas para complementar looks formales o dar un toque de distinción a un atuendo casual.",
+        "mesh": "old_derby_shoe.gltf"
+    }
+]
