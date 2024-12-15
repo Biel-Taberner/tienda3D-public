@@ -1,6 +1,6 @@
-import gsap from "/tienda-3D/node_modules/gsap/index.js";
-import Letterize from "../node_modules/letterizejs"
-import ScrollTrigger from "../node_modules/gsap/ScrollTrigger.js";
+import gsap from "gsap";
+import Letterize from "letterizejs"
+import ScrollTrigger from "gsap/ScrollTrigger";
 
 // Registra el plugin ScrollTrigger amb GSAP.
 gsap.registerPlugin(ScrollTrigger);
